@@ -4,3 +4,4 @@
 
 ### Testatando
  - comando git push
+ - -com ando git pull
